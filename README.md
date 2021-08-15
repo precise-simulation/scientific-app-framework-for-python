@@ -19,8 +19,7 @@ Features
 
 - Fast, easy, and definition and layout of dialogs and graphical user
   interface (GUI) by using [XML
-  definitions](https://github.com/precise-simulation/scientific-app-framework-for-python/tree/master/gui
-  layout examples).
+  definitions](https://github.com/precise-simulation/scientific-app-framework-for-python/tree/main/gui%20layout%20examples).
 - Automatic creation and layout of dialogs for functions and
   objects. For example, the command `dlg(Block)` will read the
   signature of the Block class, automatically create a corresponding
