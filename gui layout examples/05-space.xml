@@ -1,0 +1,17 @@
+<grid title="space" padx="20">
+  <grid title="space" rows="1 1 1" columns="1 1 1" padx="20" pady="2">
+
+    <button text="btn 1" padx="5" pady="5"/>
+    <button text="btn 2"/>
+    <button text="btn 3"/>
+
+    <button text="btn 4" ipady="22"/>
+    <button text="btn 5" padx="10" pady="15"/>
+    <button text="btn 6"/>
+
+    <button text="btn 7"/>
+    <button text="btn 8"/>
+    <button text="btn 9" padx="5" pady="5"/>
+
+  </grid>
+</grid>

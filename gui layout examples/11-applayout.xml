@@ -1,0 +1,17 @@
+<hbox title="dialog" width="640" height="300" flex="1">
+
+  <vbox title="Tools">
+    <button text="Block" id="btn1"/>
+    <button text="Cylinder" id="btn2"/>
+    <button text="Sphere" id="btn3"/>
+  </vbox>
+
+  <vbox>
+    <vbox title="View" id="view">
+      <spacer/>
+    </vbox>
+
+    <frame title="Terminal" id="term"/>
+  </vbox>
+
+</hbox>

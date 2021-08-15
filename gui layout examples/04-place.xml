@@ -1,0 +1,8 @@
+<grid title="place" rows="1 1 1" columns="1 2 3">
+
+  <button text="btn 1" id="btn1" row="0" col="0"/>
+  <button text="btn 2" id="btn2" row="1" col="0" colspan="3"/>
+  <button text="b3"    id="b3"   row="0" col="1"/>
+  <button text="btn 4" id="btn4" row="2" col="2"/>
+
+</grid>

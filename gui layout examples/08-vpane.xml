@@ -1,0 +1,9 @@
+<grid title="vpane" width="640" height="300" rows="1" cols="1">
+
+  <vpane>
+    <button flex="10" text="btn 1"/>
+    <button flex="2"  text="btn 2"/>
+    <button flex="1"  text="btn 3"/>
+  </vpane>
+
+</grid>

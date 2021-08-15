@@ -1,0 +1,10 @@
+<block type="dlg">
+  <type text="type"    default="block"/>
+  <tag  text="tag"     default="B1"/>
+  <xmin text="x_{min}" default="0"/>
+  <xmax text="x_{max}" default="1"/>
+  <!-- <ymin text="y_{min}" value="" default="0" type="double"/> -->
+  <!-- <ymax text="y_{max}" value="" default="1" type="double"/> -->
+  <!-- <ymin text="y_{min}" value="" default="0" type="double"/> -->
+  <!-- <ymax text="y_{max}" value="" default="1" type="double"/> -->
+</block>

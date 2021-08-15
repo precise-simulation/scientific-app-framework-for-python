@@ -1,0 +1,13 @@
+<vbox title="menus" width="640" height="480">
+
+  <menu label="label1">
+    <item label="1"/>
+    <item label="2"/>
+  </menu>
+
+  <menu label="label2">
+    <item label="3"/>
+    <item label="4"/>
+  </menu>
+
+</vbox>

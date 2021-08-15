@@ -1,0 +1,13 @@
+<grid title="grid" style="box" rows="1 1 1" columns="1 3">
+  <button text="btn 1" id="btn1"/>
+  <check  text="chk 2" id="chk2"/>
+  <radio  text="rad 3" id="rad3"/>
+
+  <label  text="label 1" id="lab2"/>
+  <edit   text="edit  1" id="edi3"/>
+  <popup  text="popup 1" id="pop3">
+    <item text="item 1"/>
+    <item text="item 2"/>
+    <item text="item 3"/>
+  </popup>
+</grid>

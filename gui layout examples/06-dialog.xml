@@ -1,0 +1,41 @@
+<vbox title="dialog" flex="1">
+
+  <vbox flex="1">
+
+    <hbox title="Frame 1" flex="0" padx="2" pady="3">
+
+      <button text="button 1" id="btn1" ipadx="10" ipady="0"/>
+      <combo flex="1" id="combo1">
+        <item text="item 1"/>
+        <item text="item 2"/>
+        <item text="item 3"/>
+      </combo>
+      <radio text="radio 3"/>
+
+    </hbox>
+
+
+    <hbox flex="1" title="Frame 2" padx="1" pady="1">
+
+      <list flex="2" id="combo1">
+        <item text="item 1"/>
+        <item text="item 2"/>
+        <item text="item 3"/>
+      </list>
+      <textbox text="edit 1" flex="1"/>
+
+    </hbox>
+
+
+    <hbox flex="0">
+
+      <spacer flex="1"/>
+      <button text="OK" flex="-1"/>
+      <button text="Cancel" flex="-1"/>
+      <sizegrip/>
+
+    </hbox>
+
+  </vbox>
+
+</vbox>

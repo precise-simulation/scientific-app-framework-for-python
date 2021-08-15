@@ -1,0 +1,6 @@
+<vbox title="commands">
+  <button text="cmd 1" id="cmd1" command="f_close_window"/>
+  <button text="cmd 2" id="cmd2" command="lambda: print('cmd2')"/>
+  <button text="cmd 3" id="cmd3"/>
+  <!-- <button text="cmd 3" id="cmd3" command="error_fcn_not_found"/> -->
+</vbox>

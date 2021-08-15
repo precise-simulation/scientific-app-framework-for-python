@@ -1,0 +1,5 @@
+<vbox title="vbox">
+  <button text="btn 1" id="btn1"/>
+  <button text="btn 2" id="btn2"/>
+  <button text="btn 3" id="btn3"/>
+</vbox>

@@ -1,0 +1,24 @@
+<vbox title="Block" flex="1">
+  <grid rows="1 1 1 1 1 1 1 " cols="-1 1" padx="5 0">
+    <label text="xmin"/>
+    <label text="xmax"/>
+    <label text="ymin"/>
+    <label text="ymax"/>
+    <label text="zmin"/>
+    <label text="zmax"/>
+    <label text="tag"/>
+    <edit text="1" id="xmin"/>
+    <edit text="2" id="xmax"/>
+    <edit text="3" id="ymin"/>
+    <edit text="4" id="ymax"/>
+    <edit text="5" id="zmin"/>
+    <edit text="6" id="zmax"/>
+    <edit text="B2" id="tag"/>
+  </grid>
+  <hbox flex="0">
+    <spacer flex="1"/>
+    <button text="OK" flex="-1"/>
+    <button text="Cancel" flex="-1"/>
+    <!-- <sizegrip/> -->
+  </hbox>
+</vbox>

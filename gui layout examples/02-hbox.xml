@@ -1,0 +1,5 @@
+<hbox title="hbox">
+  <button text="btn 1" id="btn1" flex="1"/>
+  <button text="btn 2" id="btn2" flex="2"/>
+  <button text="btn 3" id="btn3" flex="3"/>
+</hbox>
